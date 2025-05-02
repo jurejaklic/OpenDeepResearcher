@@ -81,4 +81,6 @@ This notebook implements an **AI researcher** that continuously searches for inf
 
 Follow me on [X](https://x.com/mattshumer_) for updates on this and other AI things I'm working on.
 
+Head to [ShumerPrompt](https://shumerprompt.com), my "Github for Prompts"!
+
 OpenDeepResearcher is released under the MIT License. See the LICENSE file for more details.
